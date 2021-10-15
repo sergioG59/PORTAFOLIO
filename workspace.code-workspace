@@ -1,0 +1,22 @@
+{
+    "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\.config"
+		},
+		{
+			"path": "..\\..\\.eclipse"
+		},
+		{
+			"path": "..\\..\\.firebase"
+		},
+		{
+			"path": "..\\..\\.cache"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Portafolio diseños front-end"
+    }
+}

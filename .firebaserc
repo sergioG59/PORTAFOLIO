@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "sbt-solutions-ac3e8",
+    "./": "portafolio-pj",
+    "sandicas": "sandicas-burguer-house",
+    "pot-store": "pot-store-1234",
+    "pot store": "pot-store-1234",
+    "pot store ": "pot-store-1234"
+  },
+  "targets": {}
+}
